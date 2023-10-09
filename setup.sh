@@ -2,6 +2,7 @@
 
 # Function to prompt the user for their choice
 prompt_user() {
+    echo "hahaahh"
     echo "Do you want to:"
     echo "1. Download the language model locally (12GB)"
     echo "2. Use the OpenAI API"
